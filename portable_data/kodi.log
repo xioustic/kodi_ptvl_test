@@ -1,0 +1,245 @@
+﻿14:15:55 T:18320  NOTICE: special://profile/ is mapped to: special://masterprofile/
+14:15:55 T:18320  NOTICE: -----------------------------------------------------------------------
+14:15:55 T:18320  NOTICE: Starting Kodi (16.1 Git:20160424-c327c53). Platform: Windows NT x86 32-bit
+14:15:55 T:18320  NOTICE: Using Release Kodi x32 build
+14:15:55 T:18320  NOTICE: Kodi compiled Apr 24 2016 by MSVC 180040629 for Windows NT x86 32-bit version 6.0 (0x06000000)
+14:15:55 T:18320  NOTICE: Running on QEMU Standard PC (i440FX + PIIX, 1996) with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+14:15:55 T:18320  NOTICE: Host CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, 6 cores available
+14:15:55 T:18320  NOTICE: Desktop Resolution: 2560x1440 32Bit at 59Hz
+14:15:55 T:18320  NOTICE: Running with restricted rights
+14:15:55 T:18320  NOTICE: Aero is enabled
+14:15:55 T:18320  NOTICE: special://xbmc/ is mapped to: C:\kodi_ptvl_test
+14:15:55 T:18320  NOTICE: special://xbmcbin/ is mapped to: C:\kodi_ptvl_test
+14:15:55 T:18320  NOTICE: special://masterprofile/ is mapped to: C:\kodi_ptvl_test\portable_data\userdata
+14:15:55 T:18320  NOTICE: special://home/ is mapped to: C:\kodi_ptvl_test\portable_data\
+14:15:55 T:18320  NOTICE: special://temp/ is mapped to: C:\kodi_ptvl_test\portable_data\cache
+14:15:55 T:18320  NOTICE: The executable running is: C:\kodi_ptvl_test\Kodi.exe
+14:15:55 T:18320  NOTICE: Local hostname: DellXPS-VM
+14:15:55 T:18320  NOTICE: Log File is located: C:\kodi_ptvl_test\portable_data\kodi.log
+14:15:55 T:18320  NOTICE: -----------------------------------------------------------------------
+14:15:55 T:18320  NOTICE: load settings...
+14:15:55 T:18320 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+14:15:55 T:18320 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+14:15:55 T:18320   ERROR: CSettings: unable to load settings from special://masterprofile/guisettings.xml, creating new default settings
+14:15:55 T:18320  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+14:15:55 T:18320  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+14:15:55 T:18320  NOTICE: Default DVD Player: dvdplayer
+14:15:55 T:18320  NOTICE: Default Video Player: dvdplayer
+14:15:55 T:18320  NOTICE: Default Audio Player: paplayer
+14:15:55 T:18320  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+14:15:55 T:18320  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+14:15:55 T:18320  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+14:15:55 T:18320  NOTICE: Loaded playercorefactory configuration
+14:15:55 T:18320  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+14:15:55 T:18320  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+14:15:55 T:1544  NOTICE: Found 2 Lists of Devices
+14:15:55 T:1544  NOTICE: Enumerated DIRECTSOUND devices:
+14:15:55 T:1544  NOTICE:     Device 1
+14:15:55 T:1544  NOTICE:         m_deviceName      : {A3A70E05-8C9A-480B-ACC7-7A69B267DAB9}
+14:15:55 T:1544  NOTICE:         m_displayName     : Speakers - Native Audio (Speakers) (Realtek High Definition Audio)
+14:15:55 T:1544  NOTICE:         m_displayNameExtra: DIRECTSOUND: Native Audio (Speakers) (Realtek High Definition Audio)
+14:15:55 T:1544  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:15:55 T:1544  NOTICE:         m_channels        : FL,FR
+14:15:55 T:1544  NOTICE:         m_sampleRates     : 48000
+14:15:55 T:1544  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+14:15:55 T:1544  NOTICE:     Device 2
+14:15:55 T:1544  NOTICE:         m_deviceName      : default
+14:15:55 T:1544  NOTICE:         m_displayName     : default
+14:15:55 T:1544  NOTICE:         m_displayNameExtra:
+14:15:55 T:1544  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:15:55 T:1544  NOTICE:         m_channels        : FL,FR
+14:15:55 T:1544  NOTICE:         m_sampleRates     : 48000
+14:15:55 T:1544  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+14:15:55 T:1544  NOTICE:     Device 3
+14:15:55 T:1544  NOTICE:         m_deviceName      : {F90E5CFC-5869-44B5-AD0D-89A787A12C4B}
+14:15:55 T:1544  NOTICE:         m_displayName     : Speakers - USB Headphones (USB Audio Device)
+14:15:55 T:1544  NOTICE:         m_displayNameExtra: DIRECTSOUND: USB Headphones (USB Audio Device)
+14:15:55 T:1544  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:15:55 T:1544  NOTICE:         m_channels        : FL,FR
+14:15:55 T:1544  NOTICE:         m_sampleRates     : 44100
+14:15:55 T:1544  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+14:15:55 T:1544  NOTICE: Enumerated WASAPI devices:
+14:15:55 T:1544  NOTICE:     Device 1
+14:15:55 T:1544  NOTICE:         m_deviceName      : {A3A70E05-8C9A-480B-ACC7-7A69B267DAB9}
+14:15:55 T:1544  NOTICE:         m_displayName     : Speakers - Native Audio (Speakers) (Realtek High Definition Audio)
+14:15:55 T:1544  NOTICE:         m_displayNameExtra: WASAPI: Native Audio (Speakers) (Realtek High Definition Audio)
+14:15:55 T:1544  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:15:55 T:1544  NOTICE:         m_channels        : FL,FR,FC,LFE,SL,SR,BL,BR
+14:15:55 T:1544  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+14:15:55 T:1544  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_LPCM
+14:15:55 T:1544  NOTICE:     Device 2
+14:15:55 T:1544  NOTICE:         m_deviceName      : default
+14:15:55 T:1544  NOTICE:         m_displayName     : default
+14:15:55 T:1544  NOTICE:         m_displayNameExtra:
+14:15:55 T:1544  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:15:55 T:1544  NOTICE:         m_channels        : FL,FR,FC,LFE,SL,SR,BL,BR
+14:15:55 T:1544  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+14:15:55 T:1544  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE,AE_FMT_LPCM
+14:15:55 T:1544  NOTICE:     Device 3
+14:15:55 T:1544  NOTICE:         m_deviceName      : {F90E5CFC-5869-44B5-AD0D-89A787A12C4B}
+14:15:55 T:1544  NOTICE:         m_displayName     : Speakers - USB Headphones (USB Audio Device)
+14:15:55 T:1544  NOTICE:         m_displayNameExtra: WASAPI: USB Headphones (USB Audio Device)
+14:15:55 T:1544  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+14:15:55 T:1544  NOTICE:         m_channels        : FL,FR
+14:15:55 T:1544  NOTICE:         m_sampleRates     : 48000,44100
+14:15:55 T:1544  NOTICE:         m_dataFormats     : AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+14:15:56 T:18320  NOTICE: ADDONS: Using repository repository.xbmc.org
+14:15:56 T:18320  NOTICE: Found screen: Acer H233H (HDMI) on NVIDIA GeForce GTX 970, adapter 0.
+14:15:56 T:18320  NOTICE: Found screen: Generic PnP Monitor on NVIDIA GeForce GTX 970, adapter 1.
+14:15:56 T:18320  NOTICE: Primary mode: 2560x1440@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Secondary mode: 1920x1080@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 640x480@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 720x480@ 56.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 720x480@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 720x576@ 56.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 720x576@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 800x600@ 56.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 800x600@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1024x768@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1024x768@ 70.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1152x864@ 75.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1280x720@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x768@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x800@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1280x960@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x1024@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1360x768@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1366x768@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 59.94 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 59.94 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 59.94 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 59.94 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 59.94 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 59.94 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1680x1050@ 59.94 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1680x1050@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1080@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1440x900@ 60.00 #2 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 2560x1440@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 2560x1440@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 640x480@ 72.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 640x480@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 720x480@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 720x480@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 720x576@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 720x576@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 800x600@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1024x768@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1152x864@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1152x864@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x768@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x800@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x800@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x960@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x960@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1280x1024@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1280x1024@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1360x768@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1366x768@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Previous line repeats 2 times.
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x900@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1024@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1600x1200@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1680x1050@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1680x1050@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1080@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1200@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1440@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1440@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1440@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1440@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1440@ 59.94 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1920x1440@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1440x900@ 75.00 - Full Screen
+14:15:56 T:18320  NOTICE: Additional mode: 1440x900@ 60.00 - Full Screen
+14:15:56 T:18320  NOTICE: Checking resolution 16
+14:15:57 T:18320  NOTICE: Running database version Addons20
+14:15:57 T:18320 WARNING: CSkinInfo: failed to load skin settings
+14:15:57 T:18320 WARNING: Previous line repeats 1 times.
+14:15:57 T:18320 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+14:15:57 T:18320  NOTICE: ActiveAE DSP - starting
+14:15:57 T:18320  NOTICE: initialize done
+14:15:58 T:18320  NOTICE: CJoystick::EnumJoysticksCallback : Enabled Joystick: Controller (Gamepad for Xbox 360)
+14:15:58 T:18320  NOTICE: CJoystick::EnumJoysticksCallback : Total Axis: 5 Total Hats: 1 Total Buttons: 10
+14:15:58 T:18320  NOTICE: Running the application...
+14:15:58 T:18320  NOTICE: starting upnp client
+14:15:58 T:5932  NOTICE: ES: Starting UDP Event server on 127.0.0.1:9777
+14:15:58 T:5932  NOTICE: UDP: Listening on port 9777
+14:16:38 T:18320  NOTICE: Storing total System Uptime
+14:16:38 T:18320  NOTICE: Saving settings
+14:16:38 T:18320  NOTICE: stop all
+14:16:38 T:18320  NOTICE: stop player
+14:16:38 T:18320  NOTICE: ES: Stopping event server
+14:16:38 T:18320  NOTICE: stopping upnp
+14:16:39 T:5932  NOTICE: ES: UDP Event server stopped
+14:16:39 T:18320  NOTICE: stop sap announcement listener
+14:16:39 T:18320  NOTICE: clean cached files!
+14:16:39 T:18320  NOTICE: unload skin
+14:16:39 T:18320  NOTICE: stopped
+14:16:39 T:18320  NOTICE: destroy
+14:16:39 T:18320  NOTICE: closing down remote control service
+14:16:40 T:18320  NOTICE: unload sections
+14:16:40 T:18320  NOTICE: special://profile/ is mapped to: special://masterprofile/
+14:16:40 T:18320  NOTICE: destroy
+14:16:40 T:18320 WARNING: Attempted to remove window 10013 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10014 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10015 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10016 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10017 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10018 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10019 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10021 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10107 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10115 from the window manager when it didn't exist
+14:16:40 T:18320 WARNING: Attempted to remove window 10104 from the window manager when it didn't exist
+14:16:40 T:18320  NOTICE: closing down remote control service
+14:16:40 T:18320  NOTICE: unload sections
+14:16:40 T:18320  NOTICE: application stopped...
+14:16:40 T:18320   ERROR: dllFreeLibrary - Invalid hModule specified
